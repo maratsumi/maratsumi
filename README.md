@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maratsumi
-- 🌱 I’m currently learning ... C++
+- Hi, I’m @maratsumi
+- I’m currently learning ... C++
 - idk how to use github ;]]
 
 <!---
