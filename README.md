@@ -1,6 +1,5 @@
 - Hi, I’m @maratsumi
-- I’m currently learning ... C++
-- idk how to use github ;]]
+- I’m currently learning ... C++, Java
 
 <!---
 maratsumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
