@@ -1,7 +1,11 @@
-- Hi, I’m @maratsumi
-- I’m currently learning ... C++, Java
+## ✿ Maratsumi ✿
+Main 'About Me' Website: [Shio / Maratsumi](https://shio-info.carrd.co/)
 
-<!---
-maratsumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My self-made website is still WIP ! (At the time of writing this, it is serving as my submission to our quarterly assessment)
+
+Current knowledge:
+* HTML/CSS
+* JQuery
+* Bootstrap
+* Java
+* Basic C++
