@@ -11,3 +11,7 @@ Current knowledge:
 * Bootstrap
 * Java
 * Basic C++
+
+Learning:
+* React
+* (Hopefully) C#
