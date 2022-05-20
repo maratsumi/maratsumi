@@ -13,5 +13,5 @@ Current knowledge:
 * Basic C++
 
 Learning:
-* React
+* React.js
 * (Hopefully) C#
