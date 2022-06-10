@@ -15,4 +15,4 @@ Current knowledge:
 Learning:
 * React.js
 * JS + TS
-* (Hopefully) C#
+* Other Computer Science Fundamentals
